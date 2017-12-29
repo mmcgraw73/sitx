@@ -24,7 +24,7 @@ installed globally, navigate to the root directory `$ cd online---frontend` and 
 
 ## Install
 
-`npm install --save sitx`
+`npm install -g sitx`
 
 
 ## Scripts
