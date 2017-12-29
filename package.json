@@ -1,0 +1,20 @@
+{
+  "name": "sitx",
+  "version": "0.1.0",
+  "description": "search directory for references to localhost:1111/sit, replaces existing sit(val) with new sit(val)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=8.9.1"
+  },
+  "bin": {
+    "sitx": "sitx.js"
+  },
+  "preferGlobal": true,
+  "author": "michael mcgraw",
+  "license": "ISC",
+  "dependencies": {
+    "replace": "^0.3.0"
+  }
+}
