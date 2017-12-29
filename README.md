@@ -27,7 +27,7 @@ quickly update your localhost URL to point at the given value <br>
 
 ## Install
 
-`npm install -g sitx`
+`npm install -g @mcgraw73/sitx`
 
 
 ## Dependencies
@@ -40,7 +40,7 @@ Package | Version | Dev
 
 ## Contributing
 
-Contributions welcome; Please submit all pull requests the against master branch. Thanks!
+Contributions welcome; Please submit all pull requests against master branch. Thanks!
 
 ## Author
 
