@@ -1,6 +1,6 @@
 # sitx
 
-![npm](https://img.shields.io/npm/v/sitx.svg) ![license](https://img.shields.io/npm/l/sitx.svg) ![github-issues](https://img.shields.io/github/issues/mmcgraw73/sitx.svg)  ![Circle CI build status](https://circleci.com/gh/mmcgraw73/sitx.svg?style=svg)
+![npm](https://img.shields.io/npm/v/sitx.svg) ![license](https://img.shields.io/npm/l/sitx.svg) ![github-issues](https://img.shields.io/github/issues/mmcgraw73/sitx.svg)  
 
 search directory for references to localhost:1111/sit, replaces existing sit(val) with new sit(val)
 
