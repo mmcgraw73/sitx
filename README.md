@@ -27,10 +27,6 @@ installed globally, navigate to the root directory `$ cd online---frontend` and 
 `npm install -g sitx`
 
 
-## Scripts
-
- - **npm run readme** : `node ./node_modules/.bin/node-readme`
-
 ## Dependencies
 
 Package | Version | Dev
