@@ -21,7 +21,7 @@ quickly update your localhost URL to point at the given value <br>
 - installed globally, navigate to the root directory
 - `$ cd online---frontend`
 - `$ sitx 1` to update api to sit1 <br><br>
-- <b>example:</b> `$ sitx 3` will edit all existing `localhost:1111/sitx` to `localhost:1111/sit3` <br><br>
+- <b>example:</b> `$ sitx 2` will edit all existing `localhost:1111/sitx` to `localhost:1111/sit2` <br><br>
 ![](/success.png?raw=true "Great Success!")
 
 
