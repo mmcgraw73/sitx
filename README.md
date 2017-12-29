@@ -18,8 +18,8 @@ search directory for references to localhost:1111/sit, replaces existing sit(val
 ## Features
 
 quickly update your localhost URL to point at the given value <br>
-installed globally, navigate to the root directory `$ cd online---frontend` and run `$ sitx 1`
-example: `$ sitx 3` will edit all existing `localhost:1111/sitx` to `localhost:1111/sit3`
+installed globally, navigate to the root directory `$ cd online---frontend` and run `$ sitx 1` to update api to sit1 <br>
+<b>example:</b> `$ sitx 3` will edit all existing `localhost:1111/sitx` to `localhost:1111/sit3`
 
 
 ## Install
