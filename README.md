@@ -1,44 +1,48 @@
-# ${pkg.name}
+# sitx
 
-${badge('npm')} ${badge('npm-license')} ${badge('github-issues')}  ${badge('circleci')}
+![npm](https://img.shields.io/npm/v/sitx.svg) ![license](https://img.shields.io/npm/l/sitx.svg) ![github-issues](https://img.shields.io/github/issues/mmcgraw73/sitx.svg)  ![Circle CI build status](https://circleci.com/gh/mmcgraw73/sitx.svg?style=svg)
 
-${pkg.description}
+search directory for references to localhost:1111/sit, replaces existing sit(val) with new sit(val)
 
-${badge('nodei')}
+![nodei.co](https://nodei.co/npm/sitx.png?downloads=true&downloadRank=true&stars=true)
 
-${badge('travis-status')}
-${badge('github-stars')}
-${badge('github-forks')}
+![travis-status](https://img.shields.io/travis/mmcgraw73/sitx.svg)
+![stars](https://img.shields.io/github/stars/mmcgraw73/sitx.svg)
+![forks](https://img.shields.io/github/forks/mmcgraw73/sitx.svg)
 
-${badge('github-forks')}
+![forks](https://img.shields.io/github/forks/mmcgraw73/sitx.svg)
 
-${badge('dependencies')}
-${badge('devDependencies')}
+![](https://david-dm.org/mmcgraw73/sitx/status.svg)
+![](https://david-dm.org/mmcgraw73/sitx/dev-status.svg)
 
 ## Features
 
 
 ## Install
 
-`npm install --save ${pkg.name}`
+`npm install --save sitx`
 
 
 ## Scripts
 
-${scripts()}
+ - **npm run readme** : `node ./node_modules/.bin/node-readme`
 
 ## Dependencies
 
-${dependencies()}
+Package | Version | Dev
+--- |:---:|:---:
+[replace](https://www.npmjs.com/package/replace) | ^0.3.0 | ✖
+[node-readme](https://www.npmjs.com/package/node-readme) | ^0.1.9 | ✔
+
 
 ## Contributing
 
-Contributions welcome; Please submit all pull requests against the master branch. If your pull request contains JavaScript patches or features, you should include relevant unit tests. Please check the [Contributing Guidelines](contributng.md) for more details. Thanks!
+Contributions welcome; Please submit all pull requests the against master branch. If your pull request contains JavaScript patches or features, you should include relevant unit tests. Please check the [Contributing Guidelines](contributng.md) for more details. Thanks!
 
 ## Author
 
-${author()}
+michael mcgraw
 
 ## License
 
-${license()}
+ - **ISC** : http://opensource.org/licenses/ISC
