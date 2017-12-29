@@ -13,6 +13,10 @@
   },
   "preferGlobal": true,
   "author": "michael mcgraw",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmcgraw73/sitx.git"
+  },
   "license": "ISC",
   "dependencies": {
     "replace": "^0.3.0"
