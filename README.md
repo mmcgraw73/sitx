@@ -27,6 +27,8 @@ quickly update your localhost URL to point at the given value <br>
 
 ## Install
 
+** you'll need to be subscribed to private modules in order to install this via npm
+
 `npm install -g @mcgraw73/sitx`
 
 
