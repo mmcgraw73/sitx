@@ -17,6 +17,7 @@ search directory for references to localhost:1111/sit, replaces existing sit(val
 
 ## Features
 
+** you will need to be subscribed to private modules to install via npm **
 quickly update your localhost URL to point at the given value <br>
 - installed globally, navigate to the root directory
 - `$ cd online---frontend`
