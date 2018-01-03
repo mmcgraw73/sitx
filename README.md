@@ -1,17 +1,13 @@
 # sitx
 
-![npm](https://img.shields.io/npm/v/sitx.svg) ![license](https://img.shields.io/npm/l/sitx.svg) ![github-issues](https://img.shields.io/github/issues/mmcgraw73/sitx.svg)  
+![license](https://img.shields.io/npm/l/sitx.svg) ![github-issues](https://img.shields.io/github/issues/mmcgraw73/sitx.svg)  
 
 search directory for references to localhost:1111/sit and replaces existing sit(val) with new sit(val)
 
 ![nodei.co](https://nodei.co/npm/sitx.png?downloads=true&downloadRank=true&stars=true)
 
 ![version](https://img.shields.io/npm/v/npm.svg)
-
-![travis-status](https://img.shields.io/travis/mmcgraw73/sitx.svg)
 ![stars](https://img.shields.io/github/stars/mmcgraw73/sitx.svg)
-![forks](https://img.shields.io/github/forks/mmcgraw73/sitx.svg)
-
 ![forks](https://img.shields.io/github/forks/mmcgraw73/sitx.svg)
 
 ![](https://david-dm.org/mmcgraw73/sitx/status.svg)
