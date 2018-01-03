@@ -2,9 +2,11 @@
 
 ![npm](https://img.shields.io/npm/v/sitx.svg) ![license](https://img.shields.io/npm/l/sitx.svg) ![github-issues](https://img.shields.io/github/issues/mmcgraw73/sitx.svg)  
 
-search directory for references to localhost:1111/sit, replaces existing sit(val) with new sit(val)
+search directory for references to localhost:1111/sit and replaces existing sit(val) with new sit(val)
 
 ![nodei.co](https://nodei.co/npm/sitx.png?downloads=true&downloadRank=true&stars=true)
+
+![version](https://img.shields.io/npm/v/npm.svg)
 
 ![travis-status](https://img.shields.io/travis/mmcgraw73/sitx.svg)
 ![stars](https://img.shields.io/github/stars/mmcgraw73/sitx.svg)
@@ -17,20 +19,19 @@ search directory for references to localhost:1111/sit, replaces existing sit(val
 
 ## Features
 
-** you will need to be subscribed to private modules to install via npm **
-quickly update your localhost URL to point at the given value <br>
-- installed globally, navigate to the root directory
-- `$ cd online---frontend`
-- `$ sitx 1` to update api to sit1 <br><br>
-- <b>example:</b> `$ sitx 2` will edit all existing `localhost:1111/sitx` to `localhost:1111/sit2` <br><br>
-![](/success.png?raw=true "Great Success!")
+to quickly update localhost URL to point at given API <br>
+- navigate to root directory: `$ cd path/to/online---frontend`
+- in terminal use command `sitx` + @argv, where @argv is the number for the API
+- to update to sit1 API: `$ sitx 1` <br>
+- to update to sit3 API: `$ sitx 3` <br>
+- any single digit number can be used as @argv
+- on success, 8 files will be updated to `localhost:1111/sit@argv`<br>
+![successful update screenshot](/success.png?raw=true "Great Success!")
 
 
 ## Install
 
-** you'll need to be subscribed to private modules in order to install this via npm
-
-`npm install -g @mcgraw73/sitx`
+`npm install -g sitx`
 
 
 ## Dependencies
