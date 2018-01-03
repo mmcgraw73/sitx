@@ -1,6 +1,6 @@
 {
   "name": "sitx",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "search directory for references to localhost:1111/sit, replaces existing sit(val) with new sit(val)",
   "scripts": {
     "readme": "node ./node_modules/.bin/node-readme"
