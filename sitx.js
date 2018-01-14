@@ -5,7 +5,6 @@ const exec = require('child_process').exec;
 const sitval = process.argv.slice(2);
 const searchPattern = "-r -l 'localhost:1111/sit' ./content/src/main/content/jcr_root/etc/designs/zig";
 
-
 const sitUpdate = exec('grep ' + searchPattern, function(err,stdout,stderr) {
   let arr = stdout.split("\n");
   arr.pop();
